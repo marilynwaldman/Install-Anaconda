@@ -6,13 +6,21 @@
 
     From WLS
     
-    `cd`
-    `vi myaws.pem`
-    'i'
+  ```aidl
+      cd
+      vi myaws.pem
+      i
+   ```
+    
+    
     copy and pasted the file I sent
-    `ESCAPE`
-    `ESCAPE`
-    `ZZ`
+    ```aidl
+    ESCAPE
+    ESCAPE
+    ZZ
+      ```
+   
+    
     
 2.  Change the permissions on the key
     

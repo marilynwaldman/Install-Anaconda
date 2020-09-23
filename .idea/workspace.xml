@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb071d9-3ebd-4448-b12a-7ba11919095f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,5 +54,11 @@
       <updated>1594899786799</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="80" key="search.everywhere.popup" timestamp="1600881759606">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="315" y="80" key="search.everywhere.popup/0.23.1280.733@0.23.1280.733" timestamp="1600881759606" />
   </component>
 </project>
