@@ -32,7 +32,7 @@
 
 3.  ssh into your instance - obtain addresses from AWS administrator
 
-`ssh -i http://ec2-34-222-75-113.us-west-2.compute.amazonaws.com:8888`
+`ssh -i -i "myaws.pem" http://ec2-34-222-75-113.us-west-2.compute.amazonaws.com:8888`
 
 REPLACE THE ADDRESS WITH THE ADDRESS YOUR ADMIN GAVE YOU.
 
