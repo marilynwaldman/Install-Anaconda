@@ -3,6 +3,17 @@
 ## ssh to your  aws instance
 
 1.  Obtain your aws security key and place it in your home directory on your local computer
+
+    From WLS
+    
+    `cd`
+    `vi myaws.pem`
+    'i'
+    copy and pasted the file I sent
+    `ESCAPE`
+    `ESCAPE`
+    `ZZ`
+    
 2.  Change the permissions on the key
     
     `chmod 400 myaws.pem`
@@ -12,7 +23,7 @@
 
 3.  ssh into your instance - obtain addresses from AWS administrator
 
-`ssh -i "myaws.pem" ubuntu@ec2-xxxxxx.us-west-2.compute.amazonaws.com`
+`ssh -i http://ec2-34-222-75-113.us-west-2.compute.amazonaws.com:8888`
 
 REPLACE THE ADDRESS WITH THE ADDRESS YOUR ADMIN GAVE YOU.
 
